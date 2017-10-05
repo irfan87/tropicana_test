@@ -1,0 +1,5 @@
+installing the module as below:
+
+1. body parser
+2. express
+3. mongoose
